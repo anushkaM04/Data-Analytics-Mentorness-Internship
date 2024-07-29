@@ -20,6 +20,8 @@ Projects
   - SQL Analysis of Hotel Reservation Dataset
   Analyzed a hotel reservation dataset using SQL (MySQL) to uncover trends and patterns. The analysis includes a detailed PPT report and a video explanation that walks through the SQL queries and findings.
 
+![Power BI Dashboard](https://github.com/user-attachments/assets/6764490d-b18c-49db-a8ad-ad80f32f33c7)
+
 3. SQL Scripts
   - PPT Report
   - Video Explanation
