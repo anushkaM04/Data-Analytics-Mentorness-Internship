@@ -1,4 +1,4 @@
-# Data-Analytics-Mentorness-Internship
+# Mentorness Data Analytics Internship
 This repository contains various projects and assignments demonstrating my skills and knowledge in Power BI, SQL, and stored procedures in SQL. The projects include data analysis, dashboard creation, and video explanations. Below is a detailed description of each project and the skills applied.
 Table of Contents
 Overview
@@ -7,10 +7,10 @@ Projects
   - SQL Analysis of Hotel Reservation Dataset
   - Stored Procedures in SQL
 
-Overview :-
+# Overview :-
   This repository showcases my journey and accomplishments in using Power BI, SQL, and stored procedures. Each project demonstrates the application of various tools and techniques to analyze data and present insights effectively.
 
-Projects :-
+# Projects :-
 1. Power BI Dashboard for YouTube Songs Analysis :
   Developed a comprehensive Power BI dashboard to analyze YouTube songs. The dashboard provides insights into various metrics such as view count, like count, comment count, and more.   Additionally, a PPT report and video explanation are included to highlight the key findings and the process.
 
